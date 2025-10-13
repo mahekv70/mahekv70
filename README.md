@@ -3,6 +3,7 @@
 🎓 MSc Researcher in Biotechnology | Tel Aviv University  
 🧬 Exploring RNA biology, transcriptomics & gene regulation  
 
+![Mahekdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahekv70&show_icons=true&theme=radical)
 ---
 
 ## 🔬 Research Focus  
