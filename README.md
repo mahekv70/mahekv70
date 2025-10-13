@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Mahekdeep Kaur  
 
-<!--
-**mahekv70/mahekv70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Researcher in Biotechnology | Tel Aviv University  
+🧬 Exploring RNA biology, transcriptomics & gene regulation  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Focus  
+- Developing **species-independent rRNA depletion** methods  
+- Mapping **RBP–RNA interactions** using RBProximity-CLIP  
+- Studying **mitochondrial RBP C8orf82** and its role in translation  
+
+Collaborations: Sarshad Lab (Gothenburg) | Hafner Lab (NIH) | Rorbach Lab (KI)
+
+---
+
+## 🧰 Skills  
+**Wet Lab:** Protein expression & purification · Mammalian cell culture · RNA extraction  
+**Computational:** RNA-seq & CLIP-seq · K-mer enrichment · RNA structure modeling  
+**Tools:** BEDTools · STAR · Cufflinks · IGV · PyMOL · ChimeraX  
+**Programming:** Python · Bash  
+
+---
+
+## 🏆 Highlights  
+- 🏅 **Shmunis Excellence Award**, Tel Aviv University (2025)  
+- 🎓 **Fully Funded MSc Scholarship**, TAU  
+- 🥇 **Academic Excellence Awards**, Thapar Institute (2020–2023)  
+
+---
+
+## 🌐 Connect  
+📧 [mahekkaur04@gmail.com](mailto:mahekkaur04@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/mahekdeep-kaur-745929250/)  
+🔬 [LCRB Lab](https://lcrbiology.wixsite.com/lcrb)  
+
+---
+
+⭐ *Driven by curiosity. Focused on RNA regulation and molecular mechanisms.*
