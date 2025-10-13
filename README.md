@@ -10,8 +10,6 @@
 - Mapping **RBP–RNA interactions** using RBProximity-CLIP  
 - Studying **mitochondrial RBP C8orf82** and its role in translation  
 
-Collaborations: Sarshad Lab (Gothenburg) | Hafner Lab (NIH) | Rorbach Lab (KI)
-
 ---
 
 ## 🧰 Skills  
